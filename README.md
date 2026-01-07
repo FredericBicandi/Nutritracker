@@ -1,4 +1,8 @@
-# NutriTracker 🍎
+<p align="center">
+  <img src="https://storage.googleapis.com/nutriverseproject/appLogo.png" alt="NutriTracker Logo" width="120"/>
+</p>
+
+<h1 align="center">NutriTracker</h1>
 
 NutriTracker is a smart nutrition-tracking mobile app that helps you log meals, track calories, and understand your eating habits over time.  
 The app uses intelligent analysis to calculate your daily calorie needs and provide meaningful progress insights.
