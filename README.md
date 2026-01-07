@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/nutriverseproject/appLogo.png" alt="NutriTracker Logo" width="50"/>
+  <img src="https://storage.googleapis.com/nutriverseproject/logo.png" alt="NutriTracker Logo" width="80"/>
 </p>
 
 <h1 style="display: flex; align-items: center; gap: 12px;">
