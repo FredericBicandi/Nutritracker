@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="assets/logo.png" alt="NutriTracker Logo" width="42" style="vertical-align: middle;" />
+  <img src="https://storage.googleapis.com/nutriverseproject/appLogo.png" alt="NutriTracker Logo" width="42" style="vertical-align: middle;" />
   <span style="color:#1AB394; vertical-align: middle; margin-left:8px;">
     NutriTracker
   </span>
