@@ -1,8 +1,9 @@
-<h1 style="display: flex; align-items: center; gap: 12px;">
-  <img style="margin-top:12" src="https://storage.googleapis.com/nutriverseproject/appLogo.png" alt="NutriTracker Logo" width="48"/>
-  <span style="color:#1AB394;">NutriTracker</span>
+<h1 align="left">
+  <img src="assets/logo.png" alt="NutriTracker Logo" width="42" style="vertical-align: middle;" />
+  <span style="color:#1AB394; vertical-align: middle; margin-left:8px;">
+    NutriTracker
+  </span>
 </h1>
-
 
 NutriTracker is a smart nutrition-tracking mobile app that helps you log meals, track calories, and understand your eating habits over time.  
 The app uses intelligent analysis to calculate your daily calorie needs and provide meaningful progress insights.
