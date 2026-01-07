@@ -75,7 +75,7 @@ Basic steps:
 ## 🌐 More Information
 
 For project details, documentation, and updates, visit:  
-👉 https://fbicandy.42web.io/nutriverse/
+👉 https://fbicandy.42web.io/nutriverse/products
 
 ---
 
